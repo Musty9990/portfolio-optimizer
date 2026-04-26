@@ -14,7 +14,15 @@
 
 No installation needed — pick a preset (US Tech / BIST Banks / Custom), hit Optimize, and explore the interactive charts.
 
+
+## 🌐 Live Demo
+
+**Try it now:** https://turkish-portfolio-optimizer.streamlit.app/
+
+No installation needed — pick a preset (US Tech / BIST Banks / Custom), hit Optimize Portfolio, and explore the interactive charts.
+
 ---
+
 
 
 ## 💡 What It Does
